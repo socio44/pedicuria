@@ -1,0 +1,13 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    position:absolute;
+    text-align:right;
+}
+p{
+    position:absolute;
+    bottom:1px;
+    width:100%; 
+}
+.ads{
+    height: 50px;
+}
